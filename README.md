@@ -1,4 +1,6 @@
-# hx
+## new_main.py file demonstrates the search strategy of the method, including encoding methods, search space, evolutionary strategies, correction methods, etc., which can be modified and adapted for different tasks as needed.
+
+An architecture example：
 ```
 #全连接层
 class Connect(nn.Module):
